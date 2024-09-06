@@ -1,5 +1,5 @@
 ﻿from math import radians
-from cmath import *
+from cmath import acos, sin, cos
 
 lat1 = radians(float(input("Enter Latitude 1: ")))
 lng1 = radians(float(input("Enter Longitude 2: ")))
